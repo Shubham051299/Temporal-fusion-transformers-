@@ -1,5 +1,6 @@
-Temporal Fusion Transformer for Stock Prediction
+# Temporal Fusion Transformer for Stock Prediction
 Project Overview
+
 This repository contains a machine learning project aimed at forecasting stock prices using a Temporal Fusion Transformer (TFT). The project leverages historical stock price data, volume information, and static covariates such as sector classification to make quantile forecasts.
 
 ![System Architecture Diagram](Images/Workflow.png)
